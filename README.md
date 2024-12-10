@@ -1,4 +1,4 @@
-# proyecto-da-c-modulo-2-team1
+# Proyecto-da-c-modulo-2-team1
 
 # 👥 Equipo
 - Alba Ventas 
