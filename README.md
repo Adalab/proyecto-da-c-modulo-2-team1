@@ -19,9 +19,9 @@ Este proyecto tiene como objetivo profundizar en el entendimiento de las tendenc
 - Comunicación de resultados: Presentar los hallazgos de manera clara y concisa a través de informes y visualizaciones, utilizando herramientas como Jupyter Notebook.
 
 # 📍 Tecnologías
-Python: Lenguaje de programación principal.
-SQL: Utilizado para interactuar con la base de datos.
-Spotify Web API: API para obtener datos de Spotify.
-Last.fm API: API para obtener datos complementarios.
-Git: Control de versiones.
-GitHub: Plataforma de alojamiento de código.
+- Python: Lenguaje de programación principal.
+- SQL: Utilizado para interactuar con la base de datos.
+- Spotify Web API: API para obtener datos de Spotify.
+- Last.fm API: API para obtener datos complementarios.
+- Git: Control de versiones.
+- GitHub: Plataforma de alojamiento de código.
