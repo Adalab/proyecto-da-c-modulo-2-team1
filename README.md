@@ -1,5 +1,11 @@
 # proyecto-da-c-modulo-2-team1
 
+# 👥 EQUIPO 
+- Alba Ventas 
+- Fátima Gonzalez
+- Sofía Giménez
+- Lola Martorell
+
 # Introducción
 
 Este proyecto tiene como objetivo profundizar en el entendimiento de las tendencias musicales y el comportamiento de los usuarios en la plataforma de streaming MusicStream. A través del análisis de datos históricos desde el año 2000, se busca identificar patrones, tendencias y correlaciones que permitan a MusicStream mejorar su servicio y ofrecer una experiencia más personalizada a sus usuarios.
