@@ -17,3 +17,11 @@ Este proyecto tiene como objetivo profundizar en el entendimiento de las tendenc
 - Análisis exploratorio de datos: Realizar consultas SQL y utilizar herramientas de visualización para responder preguntas clave sobre las tendencias musicales y el comportamiento de los usuarios.
 - Identificación de patrones y tendencias: Descubrir patrones de consumo, artistas emergentes, géneros dominantes y la evolución de la popularidad de diferentes estilos musicales a lo largo del tiempo.
 - Comunicación de resultados: Presentar los hallazgos de manera clara y concisa a través de informes y visualizaciones, utilizando herramientas como Jupyter Notebook.
+
+# 📍 Tecnologías
+Python: Lenguaje de programación principal.
+SQL: Utilizado para interactuar con la base de datos.
+Spotify Web API: API para obtener datos de Spotify.
+Last.fm API: API para obtener datos complementarios.
+Git: Control de versiones.
+GitHub: Plataforma de alojamiento de código.
