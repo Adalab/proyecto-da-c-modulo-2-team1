@@ -8,7 +8,7 @@
 
 # 📌 Introducción
 Este proyecto tiene como objetivo profundizar en el entendimiento de las tendencias musicales y el comportamiento de los usuarios en la plataforma de streaming MusicStream. A través del análisis de datos históricos desde el año 2000, se busca identificar patrones, tendencias y correlaciones que permitan a MusicStream mejorar su servicio y ofrecer una experiencia más personalizada a sus usuarios. Nosotras hemos decidido investigar en los últimos 5 años. 
-* ¡Adéntrate en el proyecto y descubre nuestro trabajo!
+* Te animamos a adentrarte en el proyecto y descubrir nuestros artistas, ¡te espera una sorpresa!
 
 # 📊 Objetivos
 - Extracción y transformación de datos: Recopilar datos relevantes de las API de Spotify y last.fm, limpiarlos y transformarlos - 
