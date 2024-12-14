@@ -1,10 +1,10 @@
 # PROYECTO MUSIC STREAM - TEAM 1 
 
 # 👥 Equipo
-Alba Ventas
-Fátima González
-Sofía Giménez
-Lola Martorell
+- Alba Ventas
+- Fátima González
+- Sofía Giménez
+- Lola Martorell
 
 # 📌 Introducción
 Este proyecto tiene como objetivo profundizar en el entendimiento de las tendencias musicales y el comportamiento de los usuarios en la plataforma de streaming MusicStream. A través del análisis de datos históricos desde el año 2000, se busca identificar patrones, tendencias y correlaciones que permitan a MusicStream mejorar su servicio y ofrecer una experiencia más personalizada a sus usuarios. Nosotras hemos decidido investigar en los últimos 5 años. 
@@ -19,9 +19,9 @@ para su almacenamiento en una base de datos relacional.
 - Comunicación de resultados: Presentarlos de manera clara y concisa a través de informes y visualizaciones, utilizando herramientas como Jupyter Notebook.
 
 # 📍Tecnologías
-Python: Lenguaje de programación principal.
-SQL: Utilizado para interactuar con la base de datos.
-Spotify Web API: API para obtener datos de Spotify.
-API de Last.fm: API para obtener datos complementarios.
-Git: Control de versiones.
-GitHub: Plataforma de alojamiento de códigos.
+- Python: Lenguaje de programación principal.
+- SQL: Utilizado para interactuar con la base de datos.
+- Spotify Web API: API para obtener datos de Spotify.
+- API de Last.fm: API para obtener datos complementarios.
+- Git: Control de versiones.
+- GitHub: Plataforma de alojamiento de códigos.
