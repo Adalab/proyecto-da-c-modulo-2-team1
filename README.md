@@ -42,4 +42,6 @@ para su almacenamiento en una base de datos relacional.
 - Probar modelos más complejos para obtener predicciones más precisas.
 - Ampliación del proyecto incorporando datos de otras plataformas de streaming, como podría ser Apple Music.
 
+# 🙏🏼 GRACIAS POR EL TIEMPO EN NUESTRO PROYECTO 🫂
+
 
