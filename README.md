@@ -18,10 +18,25 @@ para su almacenamiento en una base de datos relacional.
 - Identificación de patrones y tendencias: Descubrir patrones de consumo, artistas emergentes, géneros dominantes y la evolución de la popularidad de diferentes estilos musicales a lo largo del tiempo.
 - Comunicación de resultados: Presentarlos de manera clara y concisa a través de informes y visualizaciones, utilizando herramientas como Jupyter Notebook.
 
-# 📍Tecnologías
+# 📍Tecnologías con las que trabajamos
 - Python: Lenguaje de programación principal.
 - SQL: Utilizado para interactuar con la base de datos.
 - Spotify Web API: API para obtener datos de Spotify.
 - API de Last.fm: API para obtener datos complementarios.
 - Git: Control de versiones.
 - GitHub: Plataforma de alojamiento de códigos.
+
+# 💪🏼 Adaptación de retos e hitos por sesión, conforme se dividía el proyecto: 
+- Sesión I: Enfocarse en la distribución de tareas, la configuración del repositorio y la resolución de dudas iniciales sobre las APIs.
+- Sesión II: Priorizar la calidad de los datos y la eficiencia en la extracción. Fomentar la discusión sobre el diseño de la base de datos para asegurar que satisfaga las necesidades del análisis.
+- Sesión III: Trabajar en equipo para resolver problemas relacionados con la inserción de datos y la optimización de las consultas SQL.
+- Sesión IV: Colaborar en la creación de visualizaciones y la elaboración de la presentación. Revisar en conjunto la documentación del proyecto.
+
+# 👩🏻‍💻 A rasgos generales... 
+- Colaboración de forma efectiva: Hemos fomentado una buena comunicación y colaboración entre los miembros del equipo. Dispuestas a ayudarnos continuamente. 
+- Gestión del tiempo: Coordinar los horarios y responsabilidades de cada miembro del equipo para cumplir con los plazos.
+- Terminar de extraer los datos de las APIs de Spotify y Last.fm ha sido, probablemente, el mayor de los retos.
+
+# ➡️ Next Steps
+- Probar modelos más complejos para obtener predicciones más precisas.
+- Ampliación del proyecto incorporando datos de otras plataformas de streaming, como podría ser Apple Music. 
