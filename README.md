@@ -26,7 +26,8 @@ para su almacenamiento en una base de datos relacional.
 - Git: Control de versiones.
 - GitHub: Plataforma de alojamiento de códigos.
 
-# 💪🏼 Adaptación de retos e hitos por sesión, conforme se dividía el proyecto: 
+# 💪🏼 Adaptación de retos e hitos por sesión
+- Conforme se dividía el proyecto: 
 - Sesión I: Enfocarse en la distribución de tareas, la configuración del repositorio y la resolución de dudas iniciales sobre las APIs.
 - Sesión II: Priorizar la calidad de los datos y la eficiencia en la extracción. Fomentar la discusión sobre el diseño de la base de datos para asegurar que satisfaga las necesidades del análisis.
 - Sesión III: Trabajar en equipo para resolver problemas relacionados con la inserción de datos y la optimización de las consultas SQL.
@@ -39,4 +40,6 @@ para su almacenamiento en una base de datos relacional.
 
 # ➡️ Next Steps
 - Probar modelos más complejos para obtener predicciones más precisas.
-- Ampliación del proyecto incorporando datos de otras plataformas de streaming, como podría ser Apple Music. 
+- Ampliación del proyecto incorporando datos de otras plataformas de streaming, como podría ser Apple Music.
+
+
